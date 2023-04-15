@@ -117,6 +117,8 @@ Entre na pasta oficina_front
 npm run dev
 ```
 
+### Assista ao video
+[![Oficina 2.0](https://user-images.githubusercontent.com/57235071/232245431-fa7413d9-68cb-4e26-b7a0-9454a28c9699.png)](https://www.youtube.com/watch?v=7sZzdth5OkE "Oficina 2.0")
 
 ### Exemplo de outros Projetos
 - [API de Filmes com Comentários](https://github.com/EuclidesKinto/movie_api).
