@@ -12,13 +12,13 @@ e da data de criação.
 
 **Exemplo: Tela da Listagem de Orçamento**
 
--
+![image](https://user-images.githubusercontent.com/57235071/232242423-28c82172-fe93-4ebf-89fb-189b9e27363f.png)
 
 Para editar as informações de um orçamento específico, o usuário deve acessar a telar de editar clicando no botão -EDITAR- na listagem dos orçamentos.
 
 **Exemplo: Tela de Edição de Orçamento**
 
--
+![image](https://user-images.githubusercontent.com/57235071/232242495-6bc3b31a-1ff6-4d86-a3e0-a004ec0cbc71.png)
 
 
 ### Como executar o projeto (Linux)
@@ -98,7 +98,7 @@ Rodar os Testes
 
 ### Route List
 
--
+![image](https://user-images.githubusercontent.com/57235071/232242549-be234b5b-30ad-428d-be57-ff9863616b5d.png)
 
 ### Frontend com Vue3
 
